@@ -1,0 +1,2 @@
+DEFAULT_BODY="Bonjour <FIRST_NAME> <FAMILY_NAME>, vous vous êtes portés volontaires pour participer à l'organisation du triathlon des côteaux du vendomois en tant que signaleur. Pour faciliter les échanges entre signaleurs et avec le comité d'organisation, un groupe WhatsApp a été créé."
+DEFAULT_EMAIL_TOPIC="Vendôme Triathlon: invitation au groupe des signaleurs WhatsApp"
